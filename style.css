@@ -1,4 +1,7 @@
-html {background-color:rgb(156, 214, 180);}
+body {background-image: url('images/dumbo1.jpg');
+    background-repeat:no-repeat;
+    background-size:cover;
+    background-attachment:fixed;}
 h1 {text-align: center;
     border:3px solid purple;
     padding:5px;
